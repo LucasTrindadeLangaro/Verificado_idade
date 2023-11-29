@@ -1,0 +1,40 @@
+body{
+    font: normal 15pt Arial;
+    background: rgb(209, 174, 2);
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+
+}
+#botao{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+section img{
+    width: 300px;
+    border-radius: 1000px;
+    color: rgb(209, 174, 2);
+}
+footer{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
